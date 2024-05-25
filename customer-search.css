@@ -1,3 +1,9 @@
+body {
+    display: flex;
+    /* justify-content: center; */
+    /* margin-top: 50px; */
+}
+
 section {
     background-color: #3662B8;
     width: 565px;
