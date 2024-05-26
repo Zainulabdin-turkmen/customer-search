@@ -6,7 +6,6 @@ body {
 section {
     background-color: #3662B8;
     width: 565px;
-    height: 640px;
     margin-top: 50px;
     border-radius: 10px;
     padding: 2rem;
@@ -14,7 +13,6 @@ section {
 
 .search-container-1 {
     width: 100%;
-    height: 93px;
     background-color: #517FD9;
     border-radius: 5px;
 }
@@ -31,8 +29,7 @@ section {
 .search-container-2 {
     background-color:#14274B;
     color: #9FB8EA;
-    width: 515px;
-    margin-left: 25px;
+    width: 100%;
     border-radius: 5px;
     margin-top: 293px;
     padding-top: 32px;
