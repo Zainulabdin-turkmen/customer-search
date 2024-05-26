@@ -9,3 +9,8 @@ section {
     width: 565px;
     height: 640px;
 }
+
+.search-container {
+    width: 535px;
+    background-color: #517FD9;
+}
