@@ -33,12 +33,16 @@ section {
     background-color:#14274B;
     color: #9FB8EA;
     width: 515px;
-    height: 93px;
+    /* height: 93px; */
     margin-left: 25px;
     border-radius: 5px;
-    margin-top: 292px;
+    margin-top: 293px;
+    padding-top: 32px;
+    padding-bottom: 33px;
 }
 
 .h-2 {
     text-align: center;
+    /* margin-top: 0; */
+    /* margin-bottom: 0; */
 }
