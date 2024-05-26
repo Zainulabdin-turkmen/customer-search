@@ -8,7 +8,7 @@ section {
     width: 565px;
     height: 640px;
     margin-top: 50px;
-    /* border-radius: 10px; */
+    border-radius: 10px;
 }
 
 .search-container {
