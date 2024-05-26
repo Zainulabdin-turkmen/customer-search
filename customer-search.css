@@ -16,7 +16,18 @@ section {
     background-color: #517FD9;
     border-radius: 5px;
     display: flex;
-    
+    align-items: center;
+
+}
+
+input {
+    width: 100%;
+    padding: 2rem 0;
+}
+
+svg {
+    width: 50px;
+    margin: 0 1rem;
 }
 
 .h-1 {
