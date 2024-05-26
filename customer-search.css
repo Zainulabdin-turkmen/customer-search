@@ -37,7 +37,7 @@ section {
     border-radius: 5px;
     margin-top: 293px;
     padding-top: 32px;
-    padding-bottom: 33px;
+    padding-bottom: 28px;
 }
 
 .h-2 {
@@ -45,5 +45,6 @@ section {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 30px;
+    font-family: sans-serif;
 
 }
