@@ -1,21 +1,24 @@
 body {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
 }
 
 section {
     background-color: #3662B8;
     width: 565px;
     height: 640px;
+    margin-top: 50px;
+    /* border-radius: 10px; */
 }
 
 .search-container {
-    width: 535px;
-    height: 95px;
+    width: 515px;
+    height: 93px;
     background-color: #517FD9;
-    margin-top: 15px;
-    margin-left: 15px;
+    /* margin-top: 26px; */
+    /* margin-left: 25px; */
+    /* margin-right: 25px; */
+    border-radius: 5px;
 }
 
 .h-1 {
@@ -23,5 +26,6 @@ section {
     font-weight: 400;
     font-size: 25px;
     font-family: sans-serif;
-    text-align: center;
+    /* text-align: center; */
+    /* margin-top: 6rem; */
 }
