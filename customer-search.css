@@ -22,7 +22,9 @@ section {
 
 input {
     width: 100%;
-    padding: 2rem 0;
+    padding: 2.5rem 0;
+    background-color: #517FD9;
+    border: none;
 }
 
 svg {
